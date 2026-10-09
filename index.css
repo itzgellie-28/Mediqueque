@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12,400;12,700&display=swap');
+@import "tailwindcss";
+
+/* Tailwind v3 compatible theme variables */
+:root {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Bricolage Grotesque", serif;
+
+  --color-natural-bg: #FFFFFF;
+  --color-natural-sidebar: #F8F9FA;
+  --color-natural-border: #E9ECEF;
+  --color-natural-primary: #D90429;
+  --color-natural-accent: #6C757D;
+  --color-natural-text: #212529;
+}

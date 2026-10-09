@@ -1,0 +1,9 @@
+{
+  "name": "MediQueue",
+  "description": "A Web-Based Medical Queue and Appointment Management System for Reliance Dialysis Center Inc.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
